@@ -1,2 +1,6 @@
-# chatbot_study
-chabot study by php
+こちらの本を見ながらチャットボットの勉強。
+＝＝＝
+おもしろまじめなチャットボットをつくろう 
+松浦健一郎 
+http://amzn.asia/fW7GNeU
+＝＝＝
